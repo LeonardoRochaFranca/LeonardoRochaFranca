@@ -2,7 +2,7 @@
 <div>
   <h1>Olá!!! 🙋‍♂️ </h1>
   <P>Bem vindo ao meu Github! <br> Me chamo Leonardo, sou morador de Jaboatão dos Guararapes, Pernambuco, Brasil. <br>
-    Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE), e estagiário no projeto CIN/Samsung.
+    Atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE), e dev jr no projeto CIN/Samsung.
 </div>
 
 <div style="display: inline_block"><br>
